@@ -1,1 +1,1 @@
-# This is my CoreJava Study Project.
+# This is my CoreJava Project.
